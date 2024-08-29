@@ -7,10 +7,10 @@ Pumpkin seeds are frequently consumed as confection worldwide because of their a
 
 
 # Libraries
-•	pandas
-•	matplotlib
-•	seaborn
-•	scikit-learn
+•	pandas<br/>
+•	matplotlib<br/>
+•	seaborn<br/>
+•	scikit-learn<br/>
 
 # Agorithms and Techniques
 Logistic Regression
