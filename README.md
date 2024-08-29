@@ -17,13 +17,16 @@ Logistic Regression
 Hyperparameter Tunning
 
 # Performance Measure Before Hyperparameter Tunning
-•	Training_Accuracy_Score:  0.8806045340050378
-•	Testing_Accuracy_Score:  0.8812877263581489
-•	ROC AUC Score: 0.8813236818240705
-•	Cross-Validation Scores: 0.8746874595154812
-•	Recall_Score:  0.8634538152610441
-•	Precision_Score:  0.8958333333333334
+•	Training_Accuracy_Score:  0.8806045340050378<br/>
+•	Testing_Accuracy_Score:  0.8812877263581489<br/>
+•	ROC AUC Score: 0.8813236818240705<br/>
+•	Cross-Validation Scores: 0.8746874595154812<br/>
 
 # Performance Measure After Hyperparameter Tunning
+•	Training_Accuracy:  0.8836272040302267<br/>
+•	Testing_Accuracy: 0.8853118712273642<br/>
+•	Roc_Auc_Score After Hypertuning: 0.9510623137712139<br/>
+•	Cv_Score: 0.8746874595154812<br/>
 
+# Conclusion:  <br/>After performing hyperparameter tuning, all performance measures show improvement compared to using only logistic regression
 
