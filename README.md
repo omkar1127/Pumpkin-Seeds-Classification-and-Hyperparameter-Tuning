@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Pumpkin Seeds Classification
 # Dataset Link:
 https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
 
