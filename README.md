@@ -13,8 +13,8 @@ Pumpkin seeds are frequently consumed as confection worldwide because of their a
 •	scikit-learn<br/>
 
 # Agorithms and Techniques
-Logistic Regression
-Hyperparameter Tunning
+• Logistic Regression<br/>
+• Hyperparameter Tunning
 
 # Performance Measure Before Hyperparameter Tunning
 •	Training_Accuracy_Score:  0.8806045340050378<br/>
