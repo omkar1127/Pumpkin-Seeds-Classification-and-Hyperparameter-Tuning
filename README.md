@@ -28,5 +28,6 @@ Hyperparameter Tunning
 •	Roc_Auc_Score After Hypertuning: 0.9510623137712139<br/>
 •	Cv_Score: 0.8746874595154812<br/>
 
-# Conclusion:  <br/>After performing hyperparameter tuning, all performance measures show improvement compared to using only logistic regression
+# Conclusion:  
+### After performing hyperparameter tuning, all performance measures show improvement compared to using only logistic regression
 
